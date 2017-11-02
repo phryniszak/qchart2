@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ic_menu_black_24px.svg</file>
+        <file>images/ic_autorenew_black_24px.svg</file>
+    </qresource>
+</RCC>
