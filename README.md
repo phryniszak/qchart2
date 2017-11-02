@@ -9,7 +9,7 @@ TODO/LIMITATIONS:
 - time axis not implemented yet
 - no tests
 
-![Screenshot](https://raw.githubusercontent.com/phryniszak/qchart2/master/qchart2.png)
+![Screenshot](https://raw.githubusercontent.com/phryniszak/qchart2/master/chart.png)
 
 ## Dependencies
 
